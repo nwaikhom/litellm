@@ -7,7 +7,7 @@ cohere
 redis==5.2.1
 redisvl==0.4.1
 anthropic
-orjson==3.10.12 # fast /embedding responses
+orjson==3.11.6 # fast /embedding responses
 pydantic==2.11.0
 google-cloud-aiplatform==1.43.0
 google-cloud-iam==2.19.1
